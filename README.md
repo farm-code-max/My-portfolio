@@ -1,2 +1,2 @@
 # computer-work-2
-(work)(number01.py)
+[work](number01.py)
